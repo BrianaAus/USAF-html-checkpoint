@@ -1,0 +1,48 @@
+
+#header {
+  background-color: #203047;
+  color: white;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  position: relative;
+  border-radius: 2px;
+
+}
+
+#search {
+border-radius: 2px;
+border-width: thin;
+}
+
+#searchButton{
+  background-color: #203047;
+  color: orange;
+  border-color: orange;
+  border-radius: 5px;
+}
+
+.menu{
+background-color: #203047;
+color: white;
+border: none;
+}
+
+#login{
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#loginButton {
+background-color: blue;
+color: white;
+border-radius: 5px;
+}
+
+#results{
+    background-color: grey;
+    color:orange;
+    border-radius: 5px;
+    height: 50px;
+}
+
